@@ -24,16 +24,18 @@ sites:
 status-website:
   cname: utm.udns.site
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: UDNS UpTime Monitoring
-  introTitle: "**UDNS Uptime Monitoring** is monitoring my server."
+  name: UDNS UTM
+  introTitle: "**UDNS UTM** monitoring my server. :))"
   introMessage: ""
   navbar:
     - title: Status
       href: /
     - title: My GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
     - title: My Site
       href: https://devdon.ir
-  theme: dark
+  theme: night
   robotsText: "User-agent: * \n Disallow: /"
-  footer: This page is [open source]($REPO), [DevDon](https://devdon.ir)] 
+
+i18n:
+  footer: [DevDon](https://devdon.ir)]
