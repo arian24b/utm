@@ -16,7 +16,7 @@
     "timeMonth": 192,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-04-24": 258
+      "2024-04-24": 271
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 189,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-04-24": 258
+      "2024-04-24": 271
     }
   },
   {
@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "soha",
     "status": "up",
-    "uptime": "91.38%",
-    "uptimeDay": "91.38%",
-    "uptimeWeek": "91.38%",
-    "uptimeMonth": "91.38%",
-    "uptimeYear": "91.38%",
+    "uptime": "91.80%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "91.80%",
     "time": 140,
     "timeDay": 140,
     "timeWeek": 140,
@@ -118,19 +118,19 @@
     "url": "aida.udns.site",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aida",
-    "status": "down",
-    "uptime": "91.15%",
-    "uptimeDay": "91.15%",
-    "uptimeWeek": "91.15%",
-    "uptimeMonth": "91.15%",
-    "uptimeYear": "91.15%",
+    "status": "up",
+    "uptime": "86.75%",
+    "uptimeDay": "86.75%",
+    "uptimeWeek": "86.75%",
+    "uptimeMonth": "86.75%",
+    "uptimeYear": "86.75%",
     "time": 175,
     "timeDay": 175,
     "timeWeek": 175,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2024-04-24": 23
+      "2024-04-24": 36
     }
   }
 ]
