@@ -38,4 +38,4 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
 
 i18n:
-  footer: [DevDon](https://devdon.ir)]
+  footer: [DevDon](https://devdon.ir)
