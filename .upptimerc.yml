@@ -24,7 +24,7 @@ sites:
 status-website:
   cname: utm.udns.site
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: UDNS Uptime Monitoring
+  name: UDNS UpTime Monitoring
   introTitle: "**UDNS Uptime Monitoring** is monitoring my server."
   introMessage: ""
   navbar:
