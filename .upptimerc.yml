@@ -1,6 +1,5 @@
-# Change these first
-owner: arian24b # Your GitHub organization or username, where this repository lives
-repo: utm # The name of this repository
+owner: arian24b
+repo: utm
 
 sites:
   - name: devdon.ir
@@ -15,22 +14,19 @@ sites:
     url: https://arianameson.ir
   - name: soha
     url: soha.udns.site
-    port: 53
+    port: $SSH_PORT
     check: "tcp-ping"
   - name: aida
     url: aida.udns.site
-    port: 53
+    port: $SSH_PORT
     check: "tcp-ping"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: utm.udns.site
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UDNS Uptime Monitoring
   introTitle: "**UDNS Uptime Monitoring** is monitoring my server."
-  introMessage: This is a monitoring status page which uses **real-time** data from my [GitHub repository](https://github.com/arian24b). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: ""
   navbar:
     - title: Status
       href: /
