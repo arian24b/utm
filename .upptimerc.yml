@@ -8,6 +8,8 @@ sites:
     url: https://arianomrani.ir
   - name: v
     url: https://v.udns.site
+  - name: msn
+    url: https://msn.udns.site
   - name: cp
     url: https://cp.udns.site
   - name: arianameson.ir
@@ -18,6 +20,18 @@ sites:
     check: "tcp-ping"
   - name: aida
     url: aida.udns.site
+    port: $SSH_PORT
+    check: "tcp-ping"
+  - name: servern2
+    url: servern2.udns.site
+    port: $SSH_PORT
+    check: "tcp-ping"
+  - name: servern4
+    url: servern4.udns.site
+    port: $SSH_PORT
+    check: "tcp-ping"
+  - name: servern4
+    url: servern4.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
 
