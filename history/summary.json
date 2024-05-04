@@ -16,7 +16,7 @@
     "timeMonth": 267,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-05-04": 1089,
+      "2024-05-04": 1109,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -46,7 +46,7 @@
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-05-04": 1089,
+      "2024-05-04": 1109,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -118,19 +118,19 @@
     "url": "https://arianameson.ir",
     "icon": "https://icons.duckduckgo.com/ip3/arianameson.ir.ico",
     "slug": "arianameson-ir",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 1053,
-    "timeWeek": 1073,
-    "timeMonth": 1008,
-    "timeYear": 1008,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1323,
+    "timeDay": 2722,
+    "timeWeek": 1627,
+    "timeMonth": 1323,
+    "timeYear": 1323,
     "dailyMinutesDown": {
-      "2024-05-04": 0
+      "2024-05-04": 19
     }
   },
   {
