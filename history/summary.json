@@ -16,7 +16,7 @@
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-05-16": 388,
+      "2024-05-16": 926,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -58,7 +58,7 @@
     "timeMonth": 293,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2024-05-16": 388,
+      "2024-05-16": 926,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -106,19 +106,19 @@
     "url": "https://msn.udns.site",
     "icon": "https://icons.duckduckgo.com/ip3/msn.udns.site.ico",
     "slug": "msn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 330,
-    "timeWeek": 918,
-    "timeMonth": 793,
-    "timeYear": 793,
+    "status": "up",
+    "uptime": "97.07%",
+    "uptimeDay": "62.66%",
+    "uptimeWeek": "94.67%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.07%",
+    "time": 805,
+    "timeDay": 548,
+    "timeWeek": 925,
+    "timeMonth": 805,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-05-16": 0
+      "2024-05-16": 538
     }
   },
   {
