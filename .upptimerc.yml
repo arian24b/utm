@@ -14,6 +14,8 @@ sites:
     url: https://cp.udns.site
   - name: arianameson.ir
     url: https://arianameson.ir
+  - name: v.cloud-game.site
+    url: https://v.cloud-game.site
   - name: soha
     url: soha.udns.site
     port: $SSH_PORT
@@ -32,6 +34,14 @@ sites:
     check: "tcp-ping"
   - name: servern4
     url: servern4.udns.site
+    port: $SSH_PORT
+    check: "tcp-ping"
+  - name: kane
+    url: kane.cloud-game.site
+    port: $SSH_PORT
+    check: "tcp-ping"
+  - name: servern4
+    url: milly.cloud-game.site
     port: $SSH_PORT
     check: "tcp-ping"
 
