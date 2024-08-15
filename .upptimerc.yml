@@ -4,50 +4,62 @@ repo: utm
 sites:
   - name: devdon.ir
     url: https://devdon.ir
+    delay: 5000 # 5 seconds
   - name: arianomrani.ir
     url: https://arianomrani.ir
-  - name: v
+    delay: 5000 # 5 seconds
+  - name: v.udns.site
     url: https://v.udns.site
-  - name: msn
+    delay: 5000 # 5 seconds
+  - name: msn.udns.site
     url: https://msn.udns.site
-  - name: cp
+    delay: 5000 # 5 seconds
+  - name: cp.udns.site
     url: https://cp.udns.site
+    delay: 5000 # 5 seconds
   - name: arianameson.ir
     url: https://arianameson.ir
+    delay: 5000 # 5 seconds
   - name: v.cloud-game.site
     url: https://v.cloud-game.site
+    delay: 5000 # 5 seconds
+  - name: utm.udns.site
+    url: https://utm.udns.site
+    delay: 5000 # 5 seconds
   - name: soha
     url: soha.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
+    delay: 5000 # 5 seconds
   - name: aida
     url: aida.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
+    delay: 5000 # 5 seconds
   - name: servern2
     url: servern2.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
+    delay: 5000 # 5 seconds
   - name: servern4
     url: servern4.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
-  - name: servern4
-    url: servern4.udns.site
-    port: $SSH_PORT
-    check: "tcp-ping"
+    delay: 5000 # 5 seconds
   - name: kane
     url: kane.cloud-game.site
     port: $SSH_PORT
     check: "tcp-ping"
-  - name: servern4
+    delay: 5000 # 5 seconds
+  - name: milly
     url: milly.cloud-game.site
     port: $SSH_PORT
     check: "tcp-ping"
+    delay: 5000 # 5 seconds
 
 status-website:
   cname: utm.udns.site
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://devdon.ir/wp-content/uploads/2021/12/devdon.png
   name: UDNS UTM
   introTitle: "**UDNS UTM** monitoring my server. :))"
   introMessage: ""
@@ -60,6 +72,12 @@ status-website:
       href: https://devdon.ir
   theme: night
   robotsText: "User-agent: * \n Disallow: /"
+  favicon: https://devdon.ir/wp-content/uploads/2021/12/devdon.png
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
 
 i18n:
   footer: "[devdon](https://devdon.ir)"
