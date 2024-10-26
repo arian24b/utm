@@ -1,65 +1,54 @@
+# Repository
 owner: arian24b
 repo: utm
 
+# Endpoints
 sites:
   - name: devdon.ir
     url: https://devdon.ir
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: arianomrani.ir
     url: https://arianomrani.ir
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: v.udns.site
     url: https://v.udns.site
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: msn.udns.site
     url: https://msn.udns.site
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: cp.udns.site
     url: https://cp.udns.site
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: arianameson.ir
     url: https://arianameson.ir
-    delay: 5000 # 5 seconds
-  - name: v.cloud-game.site
-    url: https://v.cloud-game.site
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: utm.udns.site
     url: https://utm.udns.site
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: soha
     url: soha.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: aida
     url: aida.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: servern2
     url: servern2.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
-    delay: 5000 # 5 seconds
+    delay: 2000
   - name: servern4
     url: servern4.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
-    delay: 5000 # 5 seconds
-  - name: kane
-    url: kane.cloud-game.site
-    port: $SSH_PORT
-    check: "tcp-ping"
-    delay: 5000 # 5 seconds
-  - name: milly
-    url: milly.cloud-game.site
-    port: $SSH_PORT
-    check: "tcp-ping"
-    delay: 5000 # 5 seconds
+    delay: 2000
 
 status-website:
   cname: utm.udns.site
-  logoUrl: https://devdon.ir/wp-content/uploads/2021/12/devdon.png
+  logoUrl: https://devdon.ir/wp-content/uploads/2024/08/devdon.png
   name: UDNS UTM
   introTitle: "**UDNS UTM** monitoring my server. :))"
   introMessage: ""
@@ -68,11 +57,11 @@ status-website:
       href: /
     - title: My GitHub
       href: https://github.com/$OWNER
-    - title: My Site
+    - title: My Site and Blog
       href: https://devdon.ir
   theme: night
   robotsText: "User-agent: * \n Disallow: /"
-  favicon: https://devdon.ir/wp-content/uploads/2021/12/devdon.png
+  favicon: https://devdon.ir/wp-content/uploads/2024/08/devdon.png
   metaTags:
     - name: "color-scheme"
       content: "dark light"
