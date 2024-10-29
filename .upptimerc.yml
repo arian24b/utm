@@ -40,11 +40,6 @@ sites:
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
-  - name: servern4
-    url: servern4.udns.site
-    port: $SSH_PORT
-    check: "tcp-ping"
-    delay: 2000
 
 status-website:
   cname: utm.udns.site
