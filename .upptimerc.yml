@@ -30,8 +30,8 @@ sites:
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
-  - name: aida
-    url: aida.udns.site
+  - name: shima
+    url: shima.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
