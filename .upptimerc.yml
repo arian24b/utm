@@ -13,9 +13,6 @@ sites:
   - name: v.udns.site
     url: https://v.udns.site
     delay: 2000
-  - name: msn.udns.site
-    url: https://msn.udns.site
-    delay: 2000
   - name: cp.udns.site
     url: https://cp.udns.site
     delay: 2000
@@ -32,11 +29,6 @@ sites:
     delay: 2000
   - name: shima
     url: shima.udns.site
-    port: $SSH_PORT
-    check: "tcp-ping"
-    delay: 2000
-  - name: servern2
-    url: servern2.udns.site
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
