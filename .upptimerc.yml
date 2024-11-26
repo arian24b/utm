@@ -10,32 +10,32 @@ sites:
   - name: arianomrani.ir
     url: https://arianomrani.ir
     delay: 2000
-  - name: v.udns.site
-    url: https://v.udns.site
+  - name: v.usite.tech
+    url: https://v.usite.tech
     delay: 2000
-  - name: cp.udns.site
-    url: https://cp.udns.site
+  - name: cp.usite.tech
+    url: https://cp.usite.tech
     delay: 2000
   - name: arianameson.ir
     url: https://arianameson.ir
     delay: 2000
-  - name: utm.udns.site
-    url: https://utm.udns.site
+  - name: utm.usite.tech
+    url: https://utm.usite.tech
     delay: 2000
   - name: soha
-    url: soha.udns.site
+    url: soha.usite.tech
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
   - name: shima
-    url: shima.udns.site
+    url: shima.usite.tech
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
 
 status-website:
-  cname: utm.udns.site
-  logoUrl: https://devdon.ir/wp-content/uploads/2024/08/devdon.png
+  cname: utm.usite.tech
+  logoUrl: https://devdon.ir/blog/wp-content/uploads/2024/08/devdon.png
   name: UDNS UTM
   introTitle: "**UDNS UTM** monitoring my server. :))"
   introMessage: ""
@@ -48,7 +48,7 @@ status-website:
       href: https://devdon.ir
   theme: night
   robotsText: "User-agent: * \n Disallow: /"
-  favicon: https://devdon.ir/wp-content/uploads/2024/08/devdon.png
+  favicon: https://devdon.ir/blog/wp-content/uploads/2024/08/devdon.png
   metaTags:
     - name: "color-scheme"
       content: "dark light"
