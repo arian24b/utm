@@ -4,6 +4,15 @@ repo: utm
 
 # Endpoints
 sites:
+  - name: insightsite.info
+    url: https://insightsite.info
+    delay: 2000
+  - name: demo.insightsite.info
+    url: https://demo.insightsite.info
+    delay: 2000
+  - name: insightsite.ir
+    url: https://insightsite.ir
+    delay: 2000
   - name: devdon.ir
     url: https://devdon.ir
     delay: 2000
