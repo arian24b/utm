@@ -36,8 +36,8 @@ sites:
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
-  - name: shima
-    url: shima.usite.tech
+  - name: mahsa
+    url: mahsa.usite.tech
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
