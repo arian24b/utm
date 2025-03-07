@@ -28,6 +28,12 @@ sites:
   - name: arianameson.ir
     url: https://arianameson.ir
     delay: 2000
+  - name: s2dio.ir
+    url: https://s2dio.ir
+    delay: 2000
+  - name: ablmoasherati.ir
+    url: https://ablmoasherati.ir
+    delay: 2000
   - name: utm.usite.tech
     url: https://utm.usite.tech
     delay: 2000
@@ -44,7 +50,7 @@ sites:
 
 status-website:
   cname: utm.usite.tech
-  logoUrl: https://devdon.ir/blog/wp-content/uploads/2024/08/devdon.png
+  logoUrl: https://dl.devdon.ir/images/favicon.ico
   name: UDNS UTM
   introTitle: "**UDNS UTM** monitoring my server. :))"
   introMessage: ""
@@ -54,10 +60,10 @@ status-website:
     - title: My GitHub
       href: https://github.com/$OWNER
     - title: My Site and Blog
-      href: https://devdon.ir
+      href: https://s2dio.ir
   theme: night
   robotsText: "User-agent: * \n Disallow: /"
-  favicon: https://devdon.ir/blog/wp-content/uploads/2024/08/devdon.png
+  favicon: https://dl.devdon.ir/images/favicon.ico
   metaTags:
     - name: "color-scheme"
       content: "dark light"
@@ -65,4 +71,4 @@ status-website:
       content: "noindex"
 
 i18n:
-  footer: "[devdon](https://devdon.ir)"
+  footer: "[S2DIO](https://s2dio.ir)"
