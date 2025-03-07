@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 671,
-    "timeDay": 934,
+    "timeDay": 863,
     "timeWeek": 649,
-    "timeMonth": 683,
+    "timeMonth": 682,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2025-02-06": 30
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.87%",
-    "time": 757,
-    "timeDay": 872,
-    "timeWeek": 847,
-    "timeMonth": 774,
-    "timeYear": 757,
+    "time": 756,
+    "timeDay": 832,
+    "timeWeek": 836,
+    "timeMonth": 772,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2025-02-09": 62,
       "2025-01-25": 23
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2025-03-07": 1372,
+      "2025-03-07": 1388,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -118,9 +118,9 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "41.41%",
     "time": 561,
-    "timeDay": 778,
-    "timeWeek": 660,
-    "timeMonth": 688,
+    "timeDay": 735,
+    "timeWeek": 655,
+    "timeMonth": 686,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2025-02-09": 200,
@@ -327,15 +327,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/arianomrani.ir.ico",
     "slug": "arianomrani-ir",
     "status": "up",
-    "uptime": "14.54%",
+    "uptime": "14.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.96%",
-    "uptimeYear": "14.54%",
+    "uptimeMonth": "67.99%",
+    "uptimeYear": "14.55%",
     "time": 539,
-    "timeDay": 604,
-    "timeWeek": 563,
-    "timeMonth": 580,
+    "timeDay": 580,
+    "timeWeek": 559,
+    "timeMonth": 578,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2025-02-17": 1009,
@@ -625,11 +625,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
-    "time": 792,
-    "timeDay": 647,
-    "timeWeek": 674,
-    "timeMonth": 691,
-    "timeYear": 792,
+    "time": 790,
+    "timeDay": 628,
+    "timeWeek": 666,
+    "timeMonth": 687,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2025-03-05": 22,
       "2024-12-05": 36,
@@ -647,11 +647,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 833,
+    "time": 835,
     "timeDay": 1017,
-    "timeWeek": 902,
-    "timeMonth": 880,
-    "timeYear": 833,
+    "timeWeek": 914,
+    "timeMonth": 885,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2024-11-26": 57
     }
@@ -668,9 +668,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "50.48%",
     "time": 940,
-    "timeDay": 1090,
-    "timeWeek": 958,
-    "timeMonth": 939,
+    "timeDay": 1036,
+    "timeWeek": 950,
+    "timeMonth": 937,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2024-10-22": 1105,
@@ -846,11 +846,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3166,
-    "timeDay": 3166,
-    "timeWeek": 3166,
-    "timeMonth": 3166,
-    "timeYear": 3166,
+    "time": 2337,
+    "timeDay": 2337,
+    "timeWeek": 2337,
+    "timeMonth": 2337,
+    "timeYear": 2337,
     "dailyMinutesDown": {}
   },
   {
@@ -870,7 +870,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-07": 653
+      "2025-03-07": 669
     }
   },
   {
@@ -890,7 +890,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-07": 404
+      "2025-03-07": 419
     }
   },
   {
@@ -905,9 +905,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 154,
-    "timeWeek": 143,
-    "timeMonth": 140,
+    "timeDay": 145,
+    "timeWeek": 140,
+    "timeMonth": 139,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -923,7 +923,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 138,
-    "timeDay": 144,
+    "timeDay": 141,
     "timeWeek": 133,
     "timeMonth": 138,
     "timeYear": 138,
@@ -940,19 +940,19 @@
     "url": "mahsa.usite.tech",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mahsa",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 218,
-    "timeDay": 224,
-    "timeWeek": 211,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.95%",
+    "time": 219,
+    "timeDay": 227,
+    "timeWeek": 213,
     "timeMonth": 217,
-    "timeYear": 218,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-03-07": 0,
+      "2025-03-07": 15,
       "2025-02-23": 17
     }
   }
