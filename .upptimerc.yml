@@ -50,6 +50,48 @@ sites:
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
+  - name: ariandev.ir
+    url: https://ariandev.ir
+    delay: 2000
+  - name: usite.tech
+    url: https://usite.tech
+    delay: 2000
+  - name: www.ablmoasherati.ir
+    url: https://www.ablmoasherati.ir
+    delay: 2000
+  - name: www.arianameson.ir
+    url: https://www.arianameson.ir
+    delay: 2000
+  - name: www.arianomrani.ir
+    url: https://www.arianomrani.ir
+    delay: 2000
+  - name: dl.devdon.ir
+    url: https://dl.devdon.ir
+    delay: 2000
+  - name: www.insightsite.info
+    url: https://www.insightsite.info
+    delay: 2000
+  - name: mahsa.usite.tech
+    url: https://mahsa.usite.tech
+    delay: 2000
+  - name: soha.usite.tech
+    url: https://soha.usite.tech
+    delay: 2000
+  - name: s.usite.tech
+    url: https://s.usite.tech
+    delay: 2000
+  - name: n8n.usite.tech
+    url: https://n8n.usite.tech
+    delay: 2000
+  - name: pocketbase.usite.tech
+    url: https://pocketbase.usite.tech
+    delay: 2000
+  - name: portainer.usite.tech
+    url: https://portainer.usite.tech
+    delay: 2000
+  - name: p.usite.tech
+    url: https://p.usite.tech
+    delay: 2000
 
 status-website:
   cname: utm.usite.tech
@@ -72,6 +114,5 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-
 i18n:
   footer: "[S2DIO](https://s2dio.ir)"
