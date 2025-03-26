@@ -37,6 +37,9 @@ sites:
   - name: calendarix.pro
     url: https://calendarix.pro
     delay: 2000
+  - name: api.calendarix.pro
+    url: https://api.calendarix.pro
+    delay: 2000
   - name: utm.usite.tech
     url: https://utm.usite.tech
     delay: 2000
@@ -63,9 +66,6 @@ sites:
     delay: 2000
   - name: n8n.usite.tech
     url: https://n8n.usite.tech
-    delay: 2000
-  - name: pocketbase.usite.tech
-    url: https://pocketbase.usite.tech
     delay: 2000
   - name: portainer.usite.tech
     url: https://portainer.usite.tech
