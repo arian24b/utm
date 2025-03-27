@@ -62,16 +62,8 @@ sites:
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 2000
-  - name: ariandev.ir
-    url: https://ariandev.ir
-    delay: 2000
   - name: dl.devdon.ir
     url: https://dl.devdon.ir
-    delay: 2000
-  - name: s.usite.tech
-    url: https://s.usite.tech
-    port: 2096
-    check: "tcp-ping"
     delay: 2000
 
 status-website:
