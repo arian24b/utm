@@ -73,12 +73,6 @@ sites:
     port: 2096
     check: "tcp-ping"
     delay: 2000
-  - name: n8n.usite.tech
-    url: https://n8n.usite.tech
-    delay: 2000
-  - name: portainer.usite.tech
-    url: https://portainer.usite.tech
-    delay: 2000
 
 status-website:
   cname: utm.usite.tech
