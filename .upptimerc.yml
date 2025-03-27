@@ -16,9 +16,15 @@ sites:
   - name: devdon.ir
     url: https://devdon.ir
     delay: 2000
+    expectedStatusCodes:
+      - 200
+      - 301
   - name: arianomrani.ir
     url: https://arianomrani.ir
     delay: 2000
+    expectedStatusCodes:
+      - 200
+      - 301
   - name: v.usite.tech
     url: https://v.usite.tech
     delay: 2000
@@ -40,6 +46,9 @@ sites:
   - name: api.calendarix.pro
     url: https://api.calendarix.pro
     delay: 2000
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: utm.usite.tech
     url: https://utm.usite.tech
     delay: 2000
