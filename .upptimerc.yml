@@ -49,6 +49,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
+  - name: api.s2dio.ir
+    url: https://api.s2dio.ir
+    delay: 2000
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: utm.usite.tech
     url: https://utm.usite.tech
     delay: 2000
