@@ -45,13 +45,13 @@ sites:
     delay: 2000
   - name: api.calendarix.pro
     url: https://api.calendarix.pro
-    delay: 2000
+    delay: 5000
     expectedStatusCodes:
       - 200
       - 404
   - name: api.s2dio.ir
     url: https://api.s2dio.ir
-    delay: 2000
+    delay: 5000
     expectedStatusCodes:
       - 200
       - 404
