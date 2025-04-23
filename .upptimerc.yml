@@ -6,43 +6,46 @@ repo: utm
 sites:
   - name: insightsite.info
     url: https://insightsite.info
-    delay: 2000
+    delay: 10000
+  - name: hezartoo.media
+    url: https://hezartoo.media
+    delay: 10000
   - name: demo.insightsite.info
     url: https://demo.insightsite.info
-    delay: 2000
+    delay: 10000
   - name: insightsite.ir
     url: https://insightsite.ir
-    delay: 2000
+    delay: 10000
   - name: devdon.ir
     url: https://devdon.ir
-    delay: 2000
+    delay: 10000
     expectedStatusCodes:
       - 200
       - 301
   - name: arianomrani.ir
     url: https://arianomrani.ir
-    delay: 2000
+    delay: 10000
     expectedStatusCodes:
       - 200
       - 301
   - name: v.usite.tech
     url: https://v.usite.tech
-    delay: 2000
+    delay: 10000
   - name: cp.usite.tech
     url: https://cp.usite.tech
-    delay: 2000
+    delay: 10000
   - name: arianameson.ir
     url: https://arianameson.ir
-    delay: 2000
+    delay: 10000
   - name: s2dio.ir
     url: https://s2dio.ir
-    delay: 2000
+    delay: 10000
   - name: ablmoasherati.ir
     url: https://ablmoasherati.ir
-    delay: 2000
+    delay: 10000
   - name: calendarix.pro
     url: https://calendarix.pro
-    delay: 2000
+    delay: 10000
   - name: api.calendarix.pro
     url: https://api.calendarix.pro
     delay: 5000
@@ -57,20 +60,20 @@ sites:
       - 404
   - name: utm.usite.tech
     url: https://utm.usite.tech
-    delay: 2000
+    delay: 10000
   - name: soha
     url: soha.usite.tech
     port: $SSH_PORT
     check: "tcp-ping"
-    delay: 2000
+    delay: 5000
   - name: mahsa
     url: mahsa.usite.tech
     port: $SSH_PORT
     check: "tcp-ping"
-    delay: 2000
+    delay: 5000
   - name: dl.devdon.ir
     url: https://dl.devdon.ir
-    delay: 2000
+    delay: 10000
 
 status-website:
   cname: utm.usite.tech
