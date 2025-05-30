@@ -1,7 +1,7 @@
 url: https://api.s2dio.ir
-status: up
-code: 404
-responseTime: 627
-lastUpdated: 2025-05-29T23:09:43.886Z
+status: down
+code: 502
+responseTime: 628
+lastUpdated: 2025-05-30T17:41:55.244Z
 startTime: 2025-03-31T13:16:56.006Z
 generator: Upptime <https://github.com/upptime/upptime>
