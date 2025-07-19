@@ -1,7 +1,7 @@
 url: https://api.calendarix.pro
-status: up
-code: 404
-responseTime: 863
-lastUpdated: 2025-07-19T13:23:29.106Z
+status: down
+code: 502
+responseTime: 715
+lastUpdated: 2025-07-19T16:34:40.369Z
 startTime: 2025-03-26T15:08:09.164Z
 generator: Upptime <https://github.com/upptime/upptime>
