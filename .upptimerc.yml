@@ -4,79 +4,199 @@ repo: utm
 
 # Endpoints
 sites:
-  - name: insightsite.info
-    url: https://insightsite.info
+  - name: ablmoasherati.ir
+    url: https://ablmoasherati.ir
     delay: 10000
-  - name: hezartoo.media
-    url: https://hezartoo.media
+  - name: www.ablmoasherati.ir
+    url: https://www.ablmoasherati.ir
     delay: 10000
-  - name: demo.insightsite.info
-    url: https://demo.insightsite.info
+
+  - name: ar14n24b.ir
+    url: https://ar14n24b.ir
     delay: 10000
-  - name: insightsite.ir
-    url: https://insightsite.ir
+
+  - name: arian24b.ir
+    url: https://arian24b.ir
     delay: 10000
+
+  - name: arianameson.ir
+    url: https://arianameson.ir
+    delay: 10000
+  - name: www.arianameson.ir
+    url: https://www.arianameson.ir
+    delay: 10000
+
+  - name: ariandev.ir
+    url: https://ariandev.ir
+    delay: 10000
+  - name: www.ariandev.ir
+    url: https://www.ariandev.ir
+    delay: 10000
+  - name: mail.ariandev.ir
+    url: https://mail.ariandev.ir
+    delay: 10000
+
+  - name: arianomrani.ir
+    url: https://arianomrani.ir
+    delay: 10000
+
+  - name: beconnect.ir
+    url: https://beconnect.ir
+    delay: 10000
+
   - name: devdon.ir
     url: https://devdon.ir
     delay: 10000
     expectedStatusCodes:
       - 200
       - 301
-  - name: arianomrani.ir
-    url: https://arianomrani.ir
+  - name: dl.devdon.ir
+    url: https://dl.devdon.ir
     delay: 10000
-    expectedStatusCodes:
-      - 200
-      - 301
-  - name: v.usite.tech
-    url: https://v.usite.tech
+
+  - name: getinfra.ir
+    url: https://getinfra.ir
     delay: 10000
-  - name: cp.usite.tech
-    url: https://cp.usite.tech
+  - name: admin.getinfra.ir
+    url: https://admin.getinfra.ir
     delay: 10000
-  - name: arianameson.ir
-    url: https://arianameson.ir
+  - name: panel.getinfra.ir
+    url: https://panel.getinfra.ir
     delay: 10000
+
+  - name: getmirror.ir
+    url: https://getmirror.ir
+    delay: 10000
+
+  - name: hamgym.ir
+    url: https://hamgym.ir
+    delay: 10000
+
+  - name: insightsite.info
+    url: https://insightsite.info
+    delay: 10000
+  - name: imap.insightsite.info
+    url: https://imap.insightsite.info
+    delay: 10000
+  - name: keila.insightsite.info
+    url: https://keila.insightsite.info
+    delay: 10000
+  - name: pop3.insightsite.info
+    url: https://pop3.insightsite.info
+    delay: 10000
+  - name: smtp.insightsite.info
+    url: https://smtp.insightsite.info
+    delay: 10000
+
+  - name: insightsite.ir
+    url: https://insightsite.ir
+    delay: 10000
+
+  - name: isgood.site
+    url: https://isgood.site
+    delay: 10000
+  - name: a.isgood.site
+    url: https://a.isgood.site
+    delay: 10000
+  - name: v.isgood.site
+    url: https://v.isgood.site
+    delay: 10000
+
+  - name: lambd.ir
+    url: https://lambd.ir
+    delay: 10000
+
+  - name: ourgym.ir
+    url: https://ourgym.ir
+    delay: 10000
+
   - name: s2dio.ir
     url: https://s2dio.ir
     delay: 10000
-  - name: ablmoasherati.ir
-    url: https://ablmoasherati.ir
+  - name: soha.s2dio.ir
+    url: https://soha.s2dio.ir
     delay: 10000
-  - name: calendarix.pro
-    url: https://calendarix.pro
+  - name: api-billing-lago.s2dio.ir
+    url: https://api-billing-lago.s2dio.ir
     delay: 10000
-  - name: api.calendarix.pro
-    url: https://api.calendarix.pro
-    delay: 5000
-    expectedStatusCodes:
-      - 200
-      - 404
   - name: api.s2dio.ir
     url: https://api.s2dio.ir
     delay: 5000
     expectedStatusCodes:
       - 200
       - 404
-  - name: utm.usite.tech
-    url: https://utm.usite.tech
+  - name: backup.s2dio.ir
+    url: https://backup.s2dio.ir
     delay: 10000
-  - name: soha
-    url: soha.usite.tech
-    port: $SSH_PORT
-    check: "tcp-ping"
-    delay: 5000
-  - name: mahsa
+  - name: billing-lago.s2dio.ir
+    url: https://billing-lago.s2dio.ir
+    delay: 10000
+  - name: dash.s2dio.ir
+    url: https://dash.s2dio.ir
+    delay: 10000
+  - name: dl.s2dio.ir
+    url: https://dl.s2dio.ir
+    delay: 10000
+  - name: edge.s2dio.ir
+    url: https://edge.s2dio.ir
+    delay: 10000
+  - name: financialfreedom.s2dio.ir
+    url: https://financialfreedom.s2dio.ir
+    delay: 10000
+  - name: gitsave.s2dio.ir
+    url: https://gitsave.s2dio.ir
+    delay: 10000
+  - name: moni.s2dio.ir
+    url: https://moni.s2dio.ir
+    delay: 10000
+  - name: net.s2dio.ir
+    url: https://net.s2dio.ir
+    delay: 10000
+  - name: pocketbase.s2dio.ir
+    url: https://pocketbase.s2dio.ir
+    delay: 10000
+  - name: secret.s2dio.ir
+    url: https://secret.s2dio.ir
+    delay: 10000
+  - name: server.s2dio.ir
+    url: https://server.s2dio.ir
+    delay: 10000
+  - name: twenty.s2dio.ir
+    url: https://twenty.s2dio.ir
+    delay: 10000
+  - name: v.s2dio.ir
+    url: https://v.s2dio.ir
+    delay: 10000
+
+  - name: togym.ir
+    url: https://togym.ir
+    delay: 10000
+  - name: api.togym.ir
+    url: https://api.togym.ir
+    delay: 10000
+
+  - name: usite.tech
+    url: https://usite.tech
+    delay: 10000
+  - name: mahsa.usite.tech
     url: mahsa.usite.tech
     port: $SSH_PORT
     check: "tcp-ping"
     delay: 5000
-  - name: dl.devdon.ir
-    url: https://dl.devdon.ir
+  - name: soha.usite.tech
+    url: soha.usite.tech
+    port: $SSH_PORT
+    check: "tcp-ping"
+    delay: 5000
+  - name: utm.usite.tech
+    url: https://utm.usite.tech
+    delay: 10000
+  - name: v.usite.tech
+    url: https://v.usite.tech
     delay: 10000
 
 status-website:
-  cname: utm.usite.tech
+  cname: utm.s2dio.ir
   logoUrl: https://dl.devdon.ir/images/favicon.ico
   name: UDNS UTM
   introTitle: "**UDNS UTM** monitoring my server. :))"
