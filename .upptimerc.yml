@@ -175,26 +175,6 @@ sites:
     url: https://api.togym.ir
     delay: 10000
 
-  - name: usite.tech
-    url: https://usite.tech
-    delay: 10000
-  - name: mahsa.usite.tech
-    url: mahsa.usite.tech
-    port: $SSH_PORT
-    check: "tcp-ping"
-    delay: 5000
-  - name: soha.usite.tech
-    url: soha.usite.tech
-    port: $SSH_PORT
-    check: "tcp-ping"
-    delay: 5000
-  - name: utm.usite.tech
-    url: https://utm.usite.tech
-    delay: 10000
-  - name: v.usite.tech
-    url: https://v.usite.tech
-    delay: 10000
-
 status-website:
   cname: utm.s2dio.ir
   logoUrl: https://dl.devdon.ir/images/favicon.ico
